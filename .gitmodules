@@ -1,0 +1,9 @@
+[submodule "worker"]
+	path = worker
+	url = git@github.com:chaskas/stif-worker.git
+[submodule "clients/web"]
+	path = clients/web
+	url = git@github.com:chaskas/stif-client-web.git
+[submodule "api"]
+	path = api
+	url = git@github.com:chaskas/stif-api.git
